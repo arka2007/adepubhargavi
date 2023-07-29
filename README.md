@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adepubhargavi
+- 👋 Hi, I’m @adepubhargavi, a princess
 - 👀 I’m interested in the Cloud technologies and how it works
 - 🌱 I’m currently learning DevOps Methodologies 
 - 📫 How to reach me ? bhargaviadepu38@gmail.com
